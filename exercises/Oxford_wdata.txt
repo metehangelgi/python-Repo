@@ -1,0 +1,1213 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="tr-TR">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="tr-TR">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8) ]><!-->
+<html lang="tr-TR">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Koç Üniversitesi -</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.ku.edu.tr/xmlrpc.php">
+		<link rel="icon" type="image/png" href="//www.ku.edu.tr/wp-content/uploads/2019/04/favicon114x114.png">
+	
+	
+<!-- This site is optimized with the Yoast SEO Premium plugin v11.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.ku.edu.tr/" />
+<meta property="og:locale" content="tr_TR" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Koç Üniversitesi -" />
+<meta property="og:url" content="https://www.ku.edu.tr/" />
+<meta property="og:site_name" content="Koç Üniversitesi" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Koç Üniversitesi -" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.ku.edu.tr/#website","url":"https://www.ku.edu.tr/","name":"Ko\u00e7 \u00dcniversitesi","potentialAction":{"@type":"SearchAction","target":"https://www.ku.edu.tr/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"CollectionPage","@id":"https://www.ku.edu.tr/#webpage","url":"https://www.ku.edu.tr/","inLanguage":"tr-TR","name":"Ko\u00e7 \u00dcniversitesi -","isPartOf":{"@id":"https://www.ku.edu.tr/#website"}}]}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//www.ku.edu.tr' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Koç Üniversitesi &raquo; beslemesi" href="https://www.ku.edu.tr/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Koç Üniversitesi &raquo; yorum beslemesi" href="https://www.ku.edu.tr/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.ku.edu.tr\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.ku.edu.tr/wp-includes/css/dist/block-library/style.min.css?ver=5.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.ku.edu.tr/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-ext-breadcrumbs-add-css-css'  href='https://www.ku.edu.tr/wp-content/plugins/unyson/framework/extensions/breadcrumbs/static/css/style.css?ver=5.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-ext-builder-frontend-grid-css'  href='https://www.ku.edu.tr/wp-content/plugins/unyson/framework/extensions/builder/static/css/frontend-grid.css?ver=1.2.10' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-ext-forms-default-styles-css'  href='https://www.ku.edu.tr/wp-content/plugins/unyson/framework/extensions/forms/static/css/frontend.css?ver=2.7.22' type='text/css' media='all' />
+<link rel='stylesheet' id='icomoon-css'  href='https://www.ku.edu.tr/wp-content/themes/kuwp/assets/css/icomoon.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='faw-css'  href='https://www.ku.edu.tr/wp-content/themes/kuwp/assets/css/font-awesome.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='maincss-css'  href='https://www.ku.edu.tr/wp-content/themes/kuwp/assets/css/main.min.css?ver=1564397501' type='text/css' media='all' />
+<link rel='stylesheet' id='lorafont-css'  href='https://fonts.googleapis.com/css?family=Lora%3A400%2C400i%2C700%2C700i&#038;subset=latin-ext&#038;ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='appcss-css'  href='https://www.ku.edu.tr/wp-content/themes/kuwp/style.css?ver=1564397501' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.ku.edu.tr/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.ku.edu.tr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://www.ku.edu.tr/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ku.edu.tr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.ku.edu.tr/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.1" />
+<meta name="generator" content="WPML ver:4.2.6 stt:1,54;" />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.ku.edu.tr/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel="icon" href="https://www.ku.edu.tr/wp-content/uploads/2019/04/cropped-favicon114x114-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.ku.edu.tr/wp-content/uploads/2019/04/cropped-favicon114x114-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.ku.edu.tr/wp-content/uploads/2019/04/cropped-favicon114x114-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.ku.edu.tr/wp-content/uploads/2019/04/cropped-favicon114x114-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			/*
+Kendi CSS’inizi buradan ekleyebilirsiniz.
+
+Üstte yer alan yardım simgesine tıklayıp daha fazlasını öğrenebilirsiniz.
+*/
+
+@media only screen and (max-width: 760px) {
+.entry-info {
+	margin-top:0px !important;
+}	
+.entry-info .info-area .explorer-image {
+    margin-top: 25px;
+    padding-top: 100%;
+
+}
+
+.full-banner-slider .slider-list .container .content {
+    margin-bottom: 0px !important;
+}
+
+}
+
+
+.full-banner-slider .slider-list .container .content {
+    padding-left: 50px;
+    margin-bottom: -65px;
+}
+
+.entry-info .info-area .explorer-image {
+   height:auto !important;
+   padding-top:100%;
+}
+
+@media only screen and (min-width: 760px) and (max-width: 990px) {
+   .entry-info {
+        margin-top:0px;
+    }
+}		</style>
+		<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+	
+</head>
+
+<body class="home blog masthead-fixed list-view full-width grid wpb-js-composer js-comp-ver-5.3 vc_responsive">
+<style>
+	/* Header Custom Theme Colors */
+	.main-header .top-bar{
+		background: 	}
+	.main-header .top-bar .top-bar-list .top-language a,
+	.main-header .top-bar .top-bar-list .top-bar-menu a{
+		color: 	}
+
+	/* Menu Custom Theme Colors */
+	.main-header .header-other-link{
+		background: ;
+	}
+	.main-header .header-other-link .other-link-menu>ul>li>a,
+	.main-header .header-other-link .other-right .other-search .icon:before{
+		color: ;
+	}
+	.main-header .header-other-link .other-right a.default-link+.other-search:before{
+		background: ;
+	}
+	.main-header .header-other-link .other-link-menu>ul>li.menu-dropdown:hover{
+		background: ;
+	}
+	.main-header .header-other-link .other-link-menu>ul>li.menu-dropdown:hover a{
+		color: ;
+	}
+	.main-header .header-other-link .other-link-menu>ul>li>ul{
+		background: ;
+			}
+	.main-header .header-other-link .other-link-menu>ul>li>ul>li a{
+		color: ;
+	}
+	
+	/* Entry Page Header Theme Custom Color */
+	.entry-info:after{
+		background: ;
+		opacity: .8;
+	}
+	.entry-info .top .text .title, .breadcrumb a{
+		color: ;
+	}
+	.general-under-content a, a{
+		color: ;
+	}
+
+	/* AppList Border */
+	.full-banner-slider .arrow-container .swiper-button.swiper-button-next,
+	.teacher-box-list .box,
+	.jobs-section-list .main .jobs-list .list a, .jobs-section-list .main .jobs-list .list .box-area,
+	footer.main-footer .footer-center .app-list a::before{
+		border-color: ;
+	}
+	.full-banner-slider .arrow-container .swiper-button.swiper-button-next:before,
+	.full-banner-slider .arrow-container .swiper-button.swiper-button-next:after,
+	.jobs-section-list .main .jobs-list .list a .in .more-info:before, .jobs-section-list .main .jobs-list .list .box-area .in .more-info:before,
+	.full-banner-slider .swiper-pagination .swiper-pagination-bullet{
+		background: ;
+	}
+	
+	
+
+	/* Footer Custom Theme Colors */
+	footer.main-footer .footer-top{
+		background: 	}
+	footer.main-footer .footer-top span.title{
+		color: 	}
+	footer.main-footer .footer-top nav.footer-social-media a em{
+		background: 	}
+	footer.main-footer .footer-top nav.footer-social-media a:after{
+		border-color: 	}
+	footer.main-footer .footer-top nav.footer-social-media a .icon:before{
+		color: 	}
+	footer.main-footer .footer-center{
+		background: 	}
+	footer.main-footer .footer-center .footer-col .navigation-title,
+	footer.main-footer .footer-center .footer-col .footer-navigation a,
+	footer.main-footer .footer-center .app-list span.title{
+		color: 	}
+	footer.main-footer .footer-center .footer-col .footer-navigation{
+		border-color: 	}
+	footer.main-footer .footer-center .footer-contact-info .in{
+		background: ;
+		color: 	}
+	footer.main-footer .footer-center .footer-contact-info:after{
+		border-color: 	}
+	footer.main-footer .footer-center .footer-contact-info .in .col span.title{
+		color: 	}
+	footer.main-footer .footer-bottom{
+		background: 	}
+	footer.main-footer .footer-bottom span.copyright-text{
+		color: 	}
+
+	/* 19b Modülü */
+	.person-detail-card-list .person-detail-card{
+		border-color: ;
+	}
+	.person-detail-card-list .person-detail-card .top-info a.route-link:before{
+		background: ;
+	}
+
+        .wechat-logo {
+            background-color: #4a4a4a;
+            height:24px !important;
+            width:24px !important;
+            background: url('/wp-content/themes/kuwp/assets/img/WeChat-logo.svg') no-repeat center;
+	    background-size:cover;
+        }
+
+        .weibo-logo {
+            background-color: #4a4a4a;
+            height:24px !important;
+            width:24px !important;
+            background: url('/wp-content/themes/kuwp/assets/img/Weibo.svg') no-repeat center;
+            background-size:cover;
+        }
+
+
+</style>
+<!--[if lt IE 7]>
+  <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+<div class="wrapper">
+
+	<!-- ## Main Header -->
+	<header id="mainHeader" class="main-header">
+		<!-- ## Top bar -->
+		<div class="top-bar">
+			<div class="container">
+					<a href="https://www.ku.edu.tr" title="KU" class="header-logo"><i class="icon logo"></i>				</a>
+				<div class="top-bar-list">
+
+					
+										<nav class="top-bar-menu">
+						<a href="https://adaylar.ku.edu.tr/" title="" target="">Aday Öğrenci</a><a href="https://www.ku.edu.tr/koc-ogrencisi/" title="" target="">KU Öğrencisi</a><a href="https://www.ku.edu.tr/ogretim-uyesi/" title="" target="">Öğretim Üyesi</a><a href="https://mezun.ku.edu.tr/" title="" target="_blank">KU Mezunu</a>					</nav>
+					
+					
+					<nav class="top-language">
+						<a href="https://www.ku.edu.tr/en/">EN</a><a href="https://www.ku.edu.tr/" class="active">TR</a>					</nav>
+										
+					<a href="#" class="header-search search-trigger"><i class="icon icon-search"></i></a>
+					<i class="icon icon-hamburger-menu hamburger-menu"></i>
+				</div>
+			</div>
+		</div>
+		<!-- ## Header other link -->
+		<div class="header-other-link">
+			<div class="container">
+				<nav class="other-link-menu">
+					<ul>
+												<li class="menu-dropdown"><a href="#" title="" target="" >Araştırma</a><ul><li><a href="https://www.ku.edu.tr/arastirma/arastirma/" target="">Araştırma</a></li><li><a href="https://www.ku.edu.tr/arastirma/arastirma-merkezleri-ve-laboratuvarlar/" target="">Araştırma Merkezleri ve Laboratuvarlar</a></li><li><a href="https://library.ku.edu.tr" target="_blank">Kütüphane</a></li><li><a href="https://www.ku.edu.tr/arastirma/ogretim-uyesi-profili/" target="">Öğretim Üyesi Profili</a></li><li><a href="https://www.ku.edu.tr/arastirma/arastirmacilara-yonelik-programlar/" target="">Araştırmacılara Yönelik Programlar</a></li><li><a href="https://www.ku.edu.tr/arastirma/koc-universitesinde-arastirma-projeleri/" target="">Koç Üniversitesi'nde Araştırma Projeleri</a></li><li><a href="https://www.ku.edu.tr/arastirma/koc-universitesi-etik-kurullari/" target="">Koç Üniversitesi Etik Kurulları</a></li></ul></li><li class="menu-dropdown"><a href="#" title="" target="" >Akademik</a><ul><li><a href="https://www.ku.edu.tr/akademik/fakulteler-ve-enstituler/" target="">Fakülteler ve Enstitüler</a></li><li><a href="https://www.ku.edu.tr/akademik/akademik-takvim-ve-dersler/" target="">Akademik Takvim ve Dersler</a></li><li><a href="https://www.ku.edu.tr/akademik/ingilizce-ogrenim/" target="">İngilizce Öğrenim</a></li><li><a href="https://www.ku.edu.tr/akademik/uluslararasi-egitim/" target="">Uluslararası Eğitim</a></li><li><a href="https://www.ku.edu.tr/akademik/ogretime-destek/" target="">Öğretime Destek</a></li></ul></li><li class="menu-dropdown"><a href="#" title="" target="" >Keşfet</a><ul><li><a href="https://www.ku.edu.tr/kesfet/hakkimizda/" target="">Hakkımızda</a></li><li><a href="https://www.ku.edu.tr/iletisim/kampuslerimiz/rumelifeneri-kampusu/" target="">Rumelifeneri Kampüsü</a></li><li><a href="http://events.ku.edu.tr/" target="_blank">Etkinlik, Duyuru ve Haber</a></li><li><a href="https://www.ku.edu.tr/kesfet/koc-universitesinde-yaz/" target="">Koç Üniversitesi’nde Yaz</a></li><li><a href="https://adaylar.ku.edu.tr/content/kocta-24-saat" target="_blank">Koç Üniversitesi'nde 24 Saat</a></li><li><a href="https://www.ku.edu.tr/kesfet/kultur-merkezleri/" target="">Kültür Merkezleri</a></li><li><a href="https://press.ku.edu.tr/" target="_blank">KU Yayınları</a></li></ul></li><li class="menu-dropdown"><a href="#" title="" target="" >İletişim</a><ul><li><a href="https://www.ku.edu.tr/iletisim/kampuslerimiz/" target="">Kampüslerimiz</a></li><li><a href="https://www.ku.edu.tr/iletisim/koc-universitesine-ulasim/" target="">Koç Üniversitesi'ne Ulaşım</a></li><li><a href="https://www.ku.edu.tr/iletisim/sosyal-medya-hesaplari/" target="">Sosyal Medya Hesapları</a></li></ul></li><li class="menu-dropdown"><a href="#" title="" target="" >Başvuru</a><ul><li><a href="https://www.ku.edu.tr/basvuru/lisans-ve-lisansustu-ogrenci-kabulu/" target="">Lisans ve Lisansüstü Öğrenci Kabulü</a></li><li><a href="https://www.ku.edu.tr/basvuru/kayit-ve-kabul/" target="">Kayıt ve Öğrenci İşleri</a></li><li><a href="https://www.ku.edu.tr/basvuru/uluslararasi-ogrenciler/" target="">Uluslararası Öğrenciler</a></li><li><a href="https://www.ku.edu.tr/basvuru/yatay-gecis/" target="">Yatay Geçiş</a></li><li><a href="https://www.ku.edu.tr/basvuru/ozel-ogrenci-kabulu/" target="">Özel Öğrenci Kabulü</a></li></ul></li>					</ul>
+				</nav>
+				
+				
+				<div class="other-right">
+					<a href=""  class="default-link"></a>
+					<a href="#" title="" class="other-search search-trigger"><i class="icon icon-search"></i></a>
+				</div>
+
+			</div>
+		</div>
+
+	</header>
+
+
+	<div class="mobile-menu">
+		<nav>
+			<ul>
+				<li><a href="https://adaylar.ku.edu.tr/" title="" >Aday Öğrenci</a></li><li><a href="https://www.ku.edu.tr/koc-ogrencisi/" title="" >KU Öğrencisi</a></li><li><a href="https://www.ku.edu.tr/ogretim-uyesi/" title="" >Öğretim Üyesi</a></li><li><a href="https://mezun.ku.edu.tr/" title="" >KU Mezunu</a></li><li class=""><a href="#" title="" >Araştırma</a></li><li class="child-m"><a href="https://www.ku.edu.tr/arastirma/arastirma/" title="" >Araştırma</a></li><li class="child-m"><a href="https://www.ku.edu.tr/arastirma/arastirma-merkezleri-ve-laboratuvarlar/" title="" >Araştırma Merkezleri ve Laboratuvarlar</a></li><li class="child-m"><a href="https://library.ku.edu.tr" title="" >Kütüphane</a></li><li class="child-m"><a href="https://www.ku.edu.tr/arastirma/ogretim-uyesi-profili/" title="" >Öğretim Üyesi Profili</a></li><li class="child-m"><a href="https://www.ku.edu.tr/arastirma/arastirmacilara-yonelik-programlar/" title="" >Araştırmacılara Yönelik Programlar</a></li><li class="child-m"><a href="https://www.ku.edu.tr/arastirma/koc-universitesinde-arastirma-projeleri/" title="" >Koç Üniversitesi'nde Araştırma Projeleri</a></li><li class="child-m"><a href="https://www.ku.edu.tr/arastirma/koc-universitesi-etik-kurullari/" title="" >Koç Üniversitesi Etik Kurulları</a></li><li class=""><a href="#" title="" >Akademik</a></li><li class="child-m"><a href="https://www.ku.edu.tr/akademik/fakulteler-ve-enstituler/" title="" >Fakülteler ve Enstitüler</a></li><li class="child-m"><a href="https://www.ku.edu.tr/akademik/akademik-takvim-ve-dersler/" title="" >Akademik Takvim ve Dersler</a></li><li class="child-m"><a href="https://www.ku.edu.tr/akademik/ingilizce-ogrenim/" title="" >İngilizce Öğrenim</a></li><li class="child-m"><a href="https://www.ku.edu.tr/akademik/uluslararasi-egitim/" title="" >Uluslararası Eğitim</a></li><li class="child-m"><a href="https://www.ku.edu.tr/akademik/ogretime-destek/" title="" >Öğretime Destek</a></li><li class=""><a href="#" title="" >Keşfet</a></li><li class="child-m"><a href="https://www.ku.edu.tr/kesfet/hakkimizda/" title="" >Hakkımızda</a></li><li class="child-m"><a href="https://www.ku.edu.tr/iletisim/kampuslerimiz/rumelifeneri-kampusu/" title="" >Rumelifeneri Kampüsü</a></li><li class="child-m"><a href="http://events.ku.edu.tr/" title="" >Etkinlik, Duyuru ve Haber</a></li><li class="child-m"><a href="https://www.ku.edu.tr/kesfet/koc-universitesinde-yaz/" title="" >Koç Üniversitesi’nde Yaz</a></li><li class="child-m"><a href="https://adaylar.ku.edu.tr/content/kocta-24-saat" title="" >Koç Üniversitesi'nde 24 Saat</a></li><li class="child-m"><a href="https://www.ku.edu.tr/kesfet/kultur-merkezleri/" title="" >Kültür Merkezleri</a></li><li class="child-m"><a href="https://press.ku.edu.tr/" title="" >KU Yayınları</a></li><li class=""><a href="#" title="" >İletişim</a></li><li class="child-m"><a href="https://www.ku.edu.tr/iletisim/kampuslerimiz/" title="" >Kampüslerimiz</a></li><li class="child-m"><a href="https://www.ku.edu.tr/iletisim/koc-universitesine-ulasim/" title="" >Koç Üniversitesi'ne Ulaşım</a></li><li class="child-m"><a href="https://www.ku.edu.tr/iletisim/sosyal-medya-hesaplari/" title="" >Sosyal Medya Hesapları</a></li><li class=""><a href="#" title="" >Başvuru</a></li><li class="child-m"><a href="https://www.ku.edu.tr/basvuru/lisans-ve-lisansustu-ogrenci-kabulu/" title="" >Lisans ve Lisansüstü Öğrenci Kabulü</a></li><li class="child-m"><a href="https://www.ku.edu.tr/basvuru/kayit-ve-kabul/" title="" >Kayıt ve Öğrenci İşleri</a></li><li class="child-m"><a href="https://www.ku.edu.tr/basvuru/uluslararasi-ogrenciler/" title="" >Uluslararası Öğrenciler</a></li><li class="child-m"><a href="https://www.ku.edu.tr/basvuru/yatay-gecis/" title="" >Yatay Geçiş</a></li><li class="child-m"><a href="https://www.ku.edu.tr/basvuru/ozel-ogrenci-kabulu/" title="" >Özel Öğrenci Kabulü</a></li>			</ul>
+		</nav>
+	</div>
+
+
+	<div class="main-search">
+		<div class="container">
+			<div class="top">
+				<div class="search-form">
+					<form action="https://www.ku.edu.tr" id="header_search_form">
+						<span class="info-text">Arama yapmak istediğiniz kelime yazın ve enter’a basın.</span>
+						<input class="main-search-input __header_s" type="search" name="s" value="" placeholder="Sayfa, kişi, kelime ara…" autocomplete="off">
+						<i class="icon icon-search" style="cursor: pointer; pointer-events: auto;" onclick="if ($('.__header_s').val().length > 0) $('#header_search_form').submit();"></i>
+					</form>
+				</div>
+				<i class="icon icon-close"></i>
+			</div>
+			<!-- ## main area -->
+			<div class="main-area">
+				<div class="main-search-result">
+					<div class="result-info"></div>
+					<div class="row">
+						<div class="col-md-4">
+							<span class="section-name">Sayfalarda</span>              
+							<nav class="section-link search-found">
+							</nav>
+						</div>
+                                                <div class="col-md-4">
+                                                        <span class="section-name">Etkinliklerde</span>
+                                                        <nav class="section-event search-found">
+                                                        </nav>
+                                                </div>
+
+
+						<!--
+						<div class="col-md-4">
+							<span class="section-name">Kişilerde</span>
+							<nav class="section-link">
+								<a href="#" title="">Alper <em>Kim</em>az</a>
+								<a href="#" title="">Murat <em>Kim</em> o</a>
+							</nav>
+						</div>
+						-->
+					</div>
+				</div>
+				
+
+				
+				<div class="link-list">
+					<span class="title">A-Z İçerik, Sayfa Rehberi</span>
+					<div class="word-list">
+						<a href="#search-a" data-name="a" class='active'><em>A</em></a><a href="#search-b" data-name="b" ><em>B</em></a><a href="#search-c" data-name="c" ><em>C-Ç</em></a><a href="#search-d" data-name="d" ><em>D</em></a><a href="#search-e" data-name="e" ><em>E</em></a><a href="#search-f" data-name="f" ><em>F</em></a><a href="#search-g" data-name="g" ><em>G</em></a><a href="#search-h" data-name="h" ><em>H</em></a><a href="#search-i" data-name="i" ><em>I-İ</em></a><a href="#search-k" data-name="k" ><em>K</em></a><a href="#search-l" data-name="l" ><em>L</em></a><a href="#search-m" data-name="m" ><em>M</em></a><a href="#search-o" data-name="o" ><em>O-Ö</em></a><a href="#search-p" data-name="p" ><em>P</em></a><a href="#search-r" data-name="r" ><em>R</em></a><a href="#search-s" data-name="s" ><em>S-Ş</em></a><a href="#search-t" data-name="t" ><em>T</em></a><a href="#search-u" data-name="u" ><em>U-Ü</em></a><a href="#search-v" data-name="v" ><em>V</em></a><a href="#search-y" data-name="y" ><em>Y</em></a><a href="#search-z" data-name="z" ><em>Z</em></a>					</div>
+					<div class="link-list-container">
+						<div class="row word-list-container" id="search-a" name="a"><a href="#" class="mobile-link" title=""><em>A</em></a><div class="col-md-12"><nav><a href="https://www.ku.edu.tr/arastirma/arastirma/arastirma-universitesi-olarak-koc-universitesi/" title="">Araştırma Üniversitesi Olarak Koç Üniversitesi</a><a href="https://www.ku.edu.tr/akademik/akademik-takvim-ve-dersler/akademik-takvim/" title="">Akademik Takvim</a><a href="https://www.ku.edu.tr/research_centers/anadolu-medeniyetleri-arastirma-merkezi-anamed/" title="">Anadolu Medeniyetleri Araştırma Merkezi (ANAMED)</a><a href="https://www.ku.edu.tr/akademik-liste/" title="">akademik liste</a><a href="https://www.ku.edu.tr/ogretim-uyesi/arastirma/" title="">Araştırma</a><a href="https://www.ku.edu.tr/arastirma/arastirma-merkezleri-ve-laboratuvarlar/" title="">Araştırma Merkezleri ve Laboratuvarlar</a><a href="https://www.ku.edu.tr/arastirma/arastirma-merkezleri-ve-laboratuvarlar/arastirma-merkezleri/arastirma-merkezleri/" title="">Araştırma Merkezleri</a><a href="https://www.ku.edu.tr/arastirma/arastirma-merkezleri-ve-laboratuvarlar/arastirma-merkezleri/arastirma-ve-egitim-forumu/" title="">Araştırma ve Eğitim Forumu</a><a href="https://www.ku.edu.tr/akademik-profil/" title="">akademik profil</a><a href="https://www.ku.edu.tr/arastirma/arastirmacilara-yonelik-programlar/" title="">Araştırmacılara Yönelik Programlar</a><a href="https://www.ku.edu.tr/akademik/akademik-takvim-ve-dersler/" title="">Akademik Takvim ve Dersler</a><a href="https://www.ku.edu.tr/news/anamed-sergi/" title="">ANAMED Sergi</a><a href="https://www.ku.edu.tr/akademik/" title="">Akademik</a><a href="https://www.ku.edu.tr/akreditasyon-test/" title="">Akreditasyon Test</a><a href="https://www.ku.edu.tr/aday-ogrenci/" title="">Aday Öğrenci</a></nav></div></div><div class="row word-list-container" id="search-b" name="b"><a href="#" class="mobile-link" title=""><em>B</em></a><div class="col-md-12"><nav><a href="https://www.ku.edu.tr/kesfet/hakkimizda/ziyaretciler-icin/bilgi-edinme-birimi/" title="">Bilgi Edinme Birimi</a><a href="https://www.ku.edu.tr/kesfet/hakkimizda/kurulus-oykusu-ve-felsefesi/tarihce/bilim-kapisindan-dogan-gunes/" title="">Bilim Kapısı’ndan Doğan Güneş</a><a href="https://www.ku.edu.tr/basvuru/" title="">Başvuru</a><a href="https://www.ku.edu.tr/iletisim/kampuslerimiz/bati-kampusu/" title="">Batı Kampüsü</a><a href="https://www.ku.edu.tr/koc-ogrencisi/bilisim-hizmetleri/" title="">Bilişim Hizmetleri</a></nav></div></div><div class="row word-list-container" id="search-c" name="c"><a href="#" class="mobile-link" title=""><em>C-Ç</em></a><div class="col-md-12"><nav><a href="https://www.ku.edu.tr/kesfet/koc-universitesinde-yaz/cocuklar-icin-kocta-yaz/" title="">Çocuklar İçin Koç Üniversitesi'nde Yaz</a><a href="https://www.ku.edu.tr/news/case-gsb-akreditasyon/" title="">CASE & GSB Akreditasyon</a></nav></div></div><div class="row word-list-container" id="search-d" name="d"><a href="#" class="mobile-link" title=""><em>D</em></a><div class="col-md-12"><nav><a href="https://www.ku.edu.tr/kesfet/hakkimizda/koc-universitesi-yonetimi/danisma-kurulu/" title="">Danışma Kurulu</a><a href="https://www.ku.edu.tr/research_centers/dr-nusret-semahat-arsel-uluslararasi-ticaret-hukuku-uygulama-ve-arastirma-merkezi-nasamer/" title="">Dr. Nüsret-Semahat Arsel Uluslararası Ticaret Hukuku Uygulama ve Araştırma Merkezi (NASAMER)</a><a href="https://www.ku.edu.tr/kesfet/koc-universitesinde-yaz/diger-universite-ogrencileri-icin-kocta-yaz/" title="">Diğer Üniversite Öğrencileri İçin Koç Üniversitesi'nde Yaz</a><a href="https://www.ku.edu.tr/arastirma/arastirma-merkezleri-ve-laboratuvarlar/arastirma-merkezleri/destek-merkezleri/" title="">Destek Merkezleri</a><a href="https://www.ku.edu.tr/ogretim-uyesi/danismanlik/" title="">Danışmanlık</a></nav></div></div><div class="row word-list-container" id="search-e" name="e"><a href="#" class="mobile-link" title=""><em>E</em></a><div class="col-md-12"><nav><a href="https://www.ku.edu.tr/ogretim-uyesi/egitim-ve-ogretim/" title="">Eğitim ve Öğretim</a></nav></div></div><div class="row word-list-container" id="search-f" name="f"><a href="#" class="mobile-link" title=""><em>F</em></a><div class="col-md-12"><nav><a href="https://www.ku.edu.tr/kesfet/hakkimizda/kurulus-oykusu-ve-felsefesi/tarihce/fenerin-isigina-dogru/" title="">Fenerin Işığına Doğru</a><a href="https://www.ku.edu.tr/arastirma/arastirma/lisansustu-programlar/fen-ve-muhendislik-bilimleri-enstitusu/" title="">Fen ve Mühendislik Bilimleri Enstitüsü</a><a href="https://www.ku.edu.tr/akademik/fakulteler-ve-enstituler/" title="">Fakülteler ve Enstitüler</a></nav></div></div><div class="row word-list-container" id="search-g" name="g"><a href="#" class="mobile-link" title=""><em>G</em></a><div class="col-md-12"><nav><a href="https://www.ku.edu.tr/research_centers/goc-arastirmalari-uygulama-ve-arastirma-merkezi-mirekoc/" title="">Göç Araştırmaları Uygulama ve Araştırma Merkezi (MIReKoç)</a><a href="https://www.ku.edu.tr/koc-ogrencisi/genel-akademik-kaynaklar/" title="">Genel Akademik Kaynaklar</a><a href="https://www.ku.edu.tr/iletisim/kampuslerimiz/girisimcilik-arastirma-merkezi-kworks/" title="">Girişimcilik Araştırma Merkezi (KWorks)</a></nav></div></div><div class="row word-list-container" id="search-h" name="h"><a href="#" class="mobile-link" title=""><em>H</em></a><div class="col-md-12"><nav><a href="https://www.ku.edu.tr/events/herkes-icin-bilim-kurious/" title="">Herkes için Bilim – KURIOUS</a><a href="https://www.ku.edu.tr/announcement/hemsirelik-fakultesi-akreditasyon/" title="">Hemşirelik Fakültesi Akreditasyon</a><a href="https://www.ku.edu.tr/kesfet/hakkimizda/" title="">Hakkımızda</a></nav></div></div><div class="row word-list-container" id="search-i" name="i"><a href="#" class="mobile-link" title=""><em>I-İ</em></a><div class="col-md-12"><nav><a href="https://www.ku.edu.tr/kesfet/hakkimizda/idari-birimler/" title="">İdari Birimler</a><a href="https://www.ku.edu.tr/kesfet/hakkimizda/kurulus-oykusu-ve-felsefesi/tarihce/ilk-ders-vehbi-koc/" title="">İlk Ders Vehbi Koç</a><a href="https://www.ku.edu.tr/arastirma/arastirma/lisansustu-programlar/isletme-enstitusu/" title="">İşletme Enstitüsü</a><a href="https://www.ku.edu.tr/akademik/ingilizce-ogrenim/" title="">İngilizce Öğrenim</a><a href="https://www.ku.edu.tr/iletisim/" title="">İletişim</a><a href="https://www.ku.edu.tr/announcement/istanbul-bizans-anitlari-fotograf-arsivi-gabam/" title="">İstanbul Bizans Anıtları Fotoğraf Arşivi – GABAM</a><a href="https://www.ku.edu.tr/iletisim/kampuslerimiz/istinye-kampusu/" title="">İstinye Kampüsü</a></nav></div></div><div class="row word-list-container" id="search-k" name="k"><a href="#" class="mobile-link" title=""><em>K</em></a><div class="col-md-12"><nav><a href="https://www.ku.edu.tr/kesfet/hakkimizda/kurulus-oykusu-ve-felsefesi/kurucumuz/" title="">Kurucumuz</a><a href="https://www.ku.edu.tr/kesfet/hakkimizda/koc-universitesi-yonetimi/" title="">Koç Üniversitesi Yönetimi</a><a href="https://www.ku.edu.tr/kesfet/hakkimizda/koc-universitesi-yonetimi/koordinasyon-komitesi/" title="">Koordinasyon Komitesi</a><a href="https://www.ku.edu.tr/kesfet/hakkimizda/koc-universitesi-rahmi-m-koc-bilim-madalyasi-hakkinda/" title="">Koç Üniversitesi Rahmi M. Koç Bilim Madalyası</a><a href="https://www.ku.edu.tr/kesfet/hakkimizda/koc-universitesi-rahmi-m-koc-bilim-madalyasi-hakkinda/koc-universitesi-rahmi-m-koc-bilim-madalyasi-2018/" title="">Koç Üniversitesi Rahmi M. Koç Bilim Madalyası – 2018</a><a href="https://www.ku.edu.tr/kesfet/hakkimizda/ziyaretciler-icin/kisisel-verilerin-korunmasi/" title="">Kişisel Verilerin Korunması</a><a href="https://www.ku.edu.tr/kesfet/hakkimizda/koc-universitesi-rahmi-m-koc-bilim-madalyasi-hakkinda/koc-universitesi-rahmi-m-koc-bilim-madalyasi/" title="">Koç Üniversitesi Rahmi M. Koç Bilim Madalyası - 2016</a><a href="https://www.ku.edu.tr/kesfet/kampusumuz/kampuslere-erisim-ve-ulasim-hizmetleri/" title="">Kampüslere Erişim ve Ulaşım Hizmetleri</a><a href="https://www.ku.edu.tr/kesfet/kampusumuz/kultur-sanat-ve-spor/" title="">Kültür, Sanat ve Spor</a><a href="https://www.ku.edu.tr/research_centers/kuresellesme-ve-demokratik-yonetisim-glodem/" title="">Küreselleşme ve Demokratik Yönetişim (GLODEM)</a><a href="https://www.ku.edu.tr/research_centers/koc-universitesi-toplumsal-cinsiyet-ve-kadin-calismalari-arastirma-ve-uygulama-merkezi-koc-kam/" title="">Koç Üniversitesi Toplumsal Cinsiyet ve Kadın Çalışmaları Araştırma ve Uygulama Merkezi (KOÇ-KAM)</a><a href="https://www.ku.edu.tr/kesfet/koc-universitesinde-yaz/" title="">Koç Üniversitesi’nde Yaz</a><a href="https://www.ku.edu.tr/kesfet/hakkimizda/koc-universitesi-rahmi-m-koc-bilim-madalyasi-hakkinda/koc-universitesi-rahmi-m-koc-bilim-madalyasi-2017/" title="">Koç Üniversitesi Rahmi M. Koç Bilim Madalyası - 2017</a><a href="https://www.ku.edu.tr/kesfet/koc-universitesinde-yaz/koc-universitesi-ogrencileri-icin-kocta-yaz/" title="">Koç Üniversitesi Öğrencileri İçin Koç Üniversitesi'nde Yaz</a><a href="https://www.ku.edu.tr/research_centers/kuresel-kamu-hukuku-calismalari-uygulama-ve-arastirma-merkezi-kuremer/" title="">Küresel Kamu Hukuku Çalışmaları Uygulama ve Araştırma Merkezi (KÜREMER)</a><a href="https://www.ku.edu.tr/research_centers/koc-universitesi-saha-arastirmalari-merkezi-kusam/" title="">Koç Üniversitesi Saha Araştırmaları Merkezi (KUSAM)</a><a href="https://www.ku.edu.tr/kesfet/kultur-merkezleri/" title="">Kültür Merkezleri</a><a href="https://www.ku.edu.tr/research_centers/koc-universitesi-ilac-arastirma-merkezi-iam/" title="">Koç Üniversitesi İlaç Araştırma Merkezi (IAM)</a><a href="https://www.ku.edu.tr/research_centers/koc-universitesi-arcelik-yaratici-endustriler-uygulama-ve-arastirma-merkezi-kuar/" title="">Koç Üniversitesi - Arçelik Yaratıcı Endüstriler Uygulama Ve Araştırma Merkezi (KUAR)</a><a href="https://www.ku.edu.tr/research_centers/koc-universitesi-girisimcilik-arastirma-merkezi-kworks/" title="">Koç Üniversitesi Girişimcilik Araştırma Merkezi (KWORKS)</a><a href="https://www.ku.edu.tr/research_centers/koc-universitesi-stavros-niarchos-vakfi-gec-antik-cag-ve-bizans-arastirmalari-merkezi-gabam/" title="">Koç Üniversitesi Stavros Niarchos Vakfı Geç Antik Çağ ve Bizans Araştırmaları Merkezi (GABAM)</a><a href="https://www.ku.edu.tr/research_centers/koc-universitesi-asya-calismalari-uygulama-ve-arastirma-merkezi-kuasia/" title="">Koç Üniversitesi Asya Çalışmaları Uygulama Ve Araştırma Merkezi (KUASIA)</a><a href="https://www.ku.edu.tr/research_centers/koc-universitesi-translasyonel-tip-uygulama-ve-arastirma-merkezi-kuttam/" title="">Koç Üniversitesi Translasyonel Tıp Uygulama ve Araştırma Merkezi (KUTTAM)</a><a href="https://www.ku.edu.tr/research_centers/ku-akkim-bor-tabanli-malzemeler-ve-ileri-teknoloji-kimyasallar-uygulama-ve-arastirma-merkezi-kabam/" title="">KU-AKKİM Bor Tabanlı Malzemeler ve İleri Teknoloji Kimyasallar Uygulama ve Araştırma Merkezi (KABAM)</a><a href="https://www.ku.edu.tr/arastirma/koc-universitesinde-arastirma-projeleri/" title="">Koç Üniversitesi'nde Araştırma Projeleri</a><a href="https://www.ku.edu.tr/arastirma/koc-universitesi-etik-kurullari/" title="">Koç Üniversitesi Etik Kurulları</a><a href="https://www.ku.edu.tr/iletisim/kampuslerimiz/" title="">Kampüslerimiz</a><a href="https://www.ku.edu.tr/kesfet/" title="">Keşfet</a><a href="https://www.ku.edu.tr/events/koc-universitesi-yayinlarina-gozatin/" title="">Koç Üniversitesi Yayınlarına Gözatın</a><a href="https://www.ku.edu.tr/ogretim-uyesi/kurallar-ve-yonetmelikler/" title="">Kurallar ve Yönetmelikler</a><a href="https://www.ku.edu.tr/iletisim/koc-universitesine-ulasim/" title="">Koç Üniversitesi'ne Ulaşım</a><a href="https://www.ku.edu.tr/announcement/kayitlar-icin-gerekenler/" title="">Kayıtlar için Gerekenler</a><a href="https://www.ku.edu.tr/koc-universitesi-kampus-mimarisi/" title="">Koç Üniversitesi Kampüs Mimarisi</a><a href="https://www.ku.edu.tr/koc-ogrencisi/" title="">KU Öğrencisi</a><a href="https://www.ku.edu.tr/iletisim/kampuslerimiz/koc-universitesi-hastanesi/" title="">Koç Üniversitesi Hastanesi</a><a href="https://www.ku.edu.tr/iletisim/kampuslerimiz/koc-universitesi-anadolu-medeniyetleri-arastirma-merkezi/" title="">Koç Üniversitesi Anadolu Medeniyetleri Araştırma Merkezi (ANAMED)</a><a href="https://www.ku.edu.tr/basvuru/kayit-ve-kabul/" title="">Kayıt ve Öğrenci İşleri</a><a href="https://www.ku.edu.tr/kesfet/hakkimizda/kurulus-oykusu-ve-felsefesi/" title="">Kuruluş Öyküsü ve Felsefesi</a></nav></div></div><div class="row word-list-container" id="search-l" name="l"><a href="#" class="mobile-link" title=""><em>L</em></a><div class="col-md-12"><nav><a href="https://www.ku.edu.tr/kesfet/koc-universitesinde-yaz/lise-ogrencileri-icin-kocta-yaz/" title="">Lise Öğrencileri İçin Koç Üniversitesi'nde Yaz</a><a href="https://www.ku.edu.tr/arastirma/arastirma/lisansustu-programlar/" title="">Lisansüstü Programlar</a><a href="https://www.ku.edu.tr/arastirma/arastirma-merkezleri-ve-laboratuvarlar/laboratuvarlar/" title="">Laboratuvarlar</a><a href="https://www.ku.edu.tr/news/lisansustu-basvurular/" title="">Lisansüstü Başvurular</a><a href="https://www.ku.edu.tr/events/leadership-lab-info-day/" title="">Leadership Lab Info Day</a><a href="https://www.ku.edu.tr/basvuru/lisans-ve-lisansustu-ogrenci-kabulu/" title="">Lisans ve Lisansüstü Öğrenci Kabulü</a></nav></div></div><div class="row word-list-container" id="search-m" name="m"><a href="#" class="mobile-link" title=""><em>M</em></a><div class="col-md-12"><nav><a href="https://www.ku.edu.tr/kesfet/hakkimizda/koc-universitesi-yonetimi/mutevelli-heyet-baskanimiz/" title="">Mütevelli Heyet Başkanımız</a><a href="https://www.ku.edu.tr/kesfet/hakkimizda/koc-universitesi-yonetimi/mutevelli-heyeti/" title="">Mütevelli Heyeti</a><a href="https://www.ku.edu.tr/kesfet/hakkimizda/kurulus-oykusu-ve-felsefesi/tarihce/mukemmeliyet-merkezi/" title="">Mükemmeliyet Merkezi</a><a href="https://www.ku.edu.tr/events/mbge-seminar-by-yasemin-turkyilmaz/" title="">MBGE SEMINAR by Yasemin Türkyılmaz</a></nav></div></div><div class="row word-list-container" id="search-o" name="o"><a href="#" class="mobile-link" title=""><em>O-Ö</em></a><div class="col-md-12"><nav><a href="https://www.ku.edu.tr/basvuru/ozel-ogrenci-kabulu/" title="">Özel Öğrenci Kabulü</a><a href="https://www.ku.edu.tr/ogretim-uyesi/" title="">Öğretim Üyesi</a><a href="https://www.ku.edu.tr/arastirma/ogretim-uyesi-profili/" title="">Öğretim Üyesi Profili</a><a href="https://www.ku.edu.tr/akademik/ogretime-destek/" title="">Öğretime Destek</a><a href="https://www.ku.edu.tr/koc-ogrencisi/ogrenci-dekanligi/" title="">Öğrenci Dekanlığı</a><a href="https://www.ku.edu.tr/koc-ogrencisi/ogrenci-yasami/" title="">Öğrenci Yaşamı</a></nav></div></div><div class="row word-list-container" id="search-p" name="p"><a href="#" class="mobile-link" title=""><em>P</em></a><div class="col-md-12"><nav><a href="https://www.ku.edu.tr/pr-bilgi-edinme-basvuru-formu-gercek-kisiler-icin/" title="">PR Bilgi Edinme Basvuru Formu (Gercek Kisiler Icin)</a><a href="https://www.ku.edu.tr/pr-bilgi-edinme-basvuru-formu-tuzel-kisiler-icin/" title="">PR Bilgi Edinme Basvuru Formu (Tuzel Kisiler Icin)</a></nav></div></div><div class="row word-list-container" id="search-r" name="r"><a href="#" class="mobile-link" title=""><em>R</em></a><div class="col-md-12"><nav><a href="https://www.ku.edu.tr/kesfet/hakkimizda/koc-universitesi-yonetimi/rektorumuz/" title="">Rektörümüz</a><a href="https://www.ku.edu.tr/iletisim/kampuslerimiz/rumelifeneri-kampusu/" title="">Rumelifeneri Kampüsü</a></nav></div></div><div class="row word-list-container" id="search-s" name="s"><a href="#" class="mobile-link" title=""><em>S-Ş</em></a><div class="col-md-12"><nav><a href="https://www.ku.edu.tr/kesfet/hakkimizda/sayilarla-koc-universitesi/" title="">Sayılarla Koç Üniversitesi</a><a href="https://www.ku.edu.tr/kesfet/hakkimizda/kurulus-oykusu-ve-felsefesi/tarihce/sonsuza-kadar-anilmak/" title="">Sonsuza Kadar Anılmak</a><a href="https://www.ku.edu.tr/kesfet/kampusumuz/sosyal-hizmetler/" title="">Sosyal Hizmetler</a><a href="https://www.ku.edu.tr/research_centers/sosyal-politika-uygulama-ve-arastirma-merkezi-ku-spm/" title="">Sosyal Politika Uygulama ve Araştırma Merkezi (KÜ-SPM)</a><a href="https://www.ku.edu.tr/research_centers/semahat-arsel-hemsirelik-egitim-ve-arastirma-merkezi-sanerc/" title="">Semahat Arsel Hemşirelik Eğitim ve Araştırma Merkezi (SANERC)</a><a href="https://www.ku.edu.tr/research_centers/suna-ve-inan-kirac-akdeniz-medeniyetleri-arastirma-merkezi-akmed/" title="">Suna ve İnan Kıraç Akdeniz Medeniyetleri Araştırma Merkezi (AKMED)</a><a href="https://www.ku.edu.tr/arastirma/arastirma/lisansustu-programlar/sosyal-bilimler-enstitusu/" title="">Sosyal Bilimler Enstitüsü</a><a href="https://www.ku.edu.tr/arastirma/arastirma/lisansustu-programlar/saglik-bilimleri-enstitusu/" title="">Sağlık Bilimleri Enstitüsü</a><a href="https://www.ku.edu.tr/iletisim/sosyal-medya-hesaplari/" title="">Sosyal Medya Hesapları</a><a href="https://www.ku.edu.tr/iletisim/kampuslerimiz/suna-inan-kirac-akdeniz-medeniyetleri-arastirma-merkezi-akmed/" title="">Suna & İnan Kıraç Akdeniz Medeniyetleri Araştırma Merkezi (AKMED)</a></nav></div></div><div class="row word-list-container" id="search-t" name="t"><a href="#" class="mobile-link" title=""><em>T</em></a><div class="col-md-12"><nav><a href="https://www.ku.edu.tr/kesfet/hakkimizda/kurulus-oykusu-ve-felsefesi/tarihce/" title="">Tarihçe</a><a href="https://www.ku.edu.tr/research_centers/tupras-enerji-merkezi-kutem/" title="">Tüpraş Enerji Merkezi (KÜTEM)</a><a href="https://www.ku.edu.tr/arastirma/arastirma/lisansustu-programlar/tezsiz-yuksek-lisans-programlari/" title="">Tezsiz Yüksek Lisans Programları</a></nav></div></div><div class="row word-list-container" id="search-u" name="u"><a href="#" class="mobile-link" title=""><em>U-Ü</em></a><div class="col-md-12"><nav><a href="https://www.ku.edu.tr/akademik/uluslararasi-egitim/" title="">Uluslararası Eğitim</a><a href="https://www.ku.edu.tr/aday-ogrenci/uluslararasi-ogrenciler/" title="">Uluslararası Öğrenciler</a><a href="https://www.ku.edu.tr/aday-ogrenci/universite-adaylarina-merhaba/" title="">Üniversite Adaylarına Merhaba</a></nav></div></div><div class="row word-list-container" id="search-v" name="v"><a href="#" class="mobile-link" title=""><em>V</em></a><div class="col-md-12"><nav><a href="https://www.ku.edu.tr/kesfet/hakkimizda/kurulus-oykusu-ve-felsefesi/varlik-nedeni/" title="">Varlık Nedeni</a><a href="https://www.ku.edu.tr/kesfet/hakkimizda/kurulus-oykusu-ve-felsefesi/tarihce/vehbi-koctan-vedia/" title="">Vehbi Koç'tan Vedia</a><a href="https://www.ku.edu.tr/iletisim/kampuslerimiz/vehbi-koc-ankara-arastirmalari-uygulama-ve-arastirma-merkezi-vekam/" title="">Vehbi Koç Ankara Araştırmaları Uygulama ve Araştırma Merkezi (VEKAM)</a></nav></div></div><div class="row word-list-container" id="search-y" name="y"><a href="#" class="mobile-link" title=""><em>Y</em></a><div class="col-md-12"><nav><a href="https://www.ku.edu.tr/basvuru/yatay-gecis/" title="">Yatay Geçiş</a><a href="https://www.ku.edu.tr/research_centers/yuzey-arastirmalari-merkezi-kuytam/" title="">Yüzey Araştırmaları Merkezi (KUYTAM)</a><a href="https://www.ku.edu.tr/ogretim-uyesi/yasam/" title="">Yaşam</a></nav></div></div><div class="row word-list-container" id="search-z" name="z"><a href="#" class="mobile-link" title=""><em>Z</em></a><div class="col-md-12"><nav><a href="https://www.ku.edu.tr/kesfet/hakkimizda/ziyaretciler-icin/" title="">Ziyaretçiler İçin</a></nav></div></div><div class="row word-list-container" id="search-2" name="2"><a href="#" class="mobile-link" title=""><em>2</em></a><div class="col-md-12"><nav><a href="https://www.ku.edu.tr/news/2017-bilim-akademisi-odulleri/" title="">2017 Bilim Akademisi Ödülleri</a></nav></div></div>						
+
+					</div>
+					
+				</div>
+
+
+			</div>
+		</div>	
+	</div>
+
+
+        
+        
+    <style></style>
+<style>
+
+
+#modal {
+  left: 50%;
+  opacity: 0;
+  margin:0 auto;
+  position: absolute;
+  top: 10%;
+  visibility: hidden;
+  width: auto;
+  box-shadow: 0 3px 7px rgba(0,0,0,.25);
+  box-sizing: border-box;
+  transition: all .4s ease-in-out;
+  -moz-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out
+}
+
+#modal.visible {
+    opacity: 1;
+    z-index: 9999;
+    top: 5%;
+    visibility: visible;
+}
+
+#modal .header, #modal .footer {
+  border-bottom: 1px solid #1ABC9C;
+  border-radius: 5px 5px 0 0
+}
+
+#modal .footer {
+  border: none;
+  border-top: 1px solid #e7e7e7;
+  border-radius: 0 0 5px 5px
+}
+
+#modal img {
+        max-height:800px;
+}
+
+#modal h2 {
+  margin: 0;
+  color: #fff
+}
+
+#modal .btn { float: right }
+
+#modal .copy, #modal .header, #modal .footer {
+  padding: 10px;
+  color: #fff
+}
+
+.modal-content {
+    position: relative;
+    z-index: 20;
+    left: -50%;
+    border-radius: 5px;
+    color: #fff;
+}
+.modal-close {
+    margin-left: 50%;
+    z-index: 30;
+    position: relative;
+    cursor:pointer;
+}
+
+
+#modal .copy {  }
+
+#modal .overlay {
+  background-color: #000;
+  background: rgba(0,0,0,.8);
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 10
+}
+
+.copy a {
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: #ffffff;
+}
+
+@media only screen and (max-width : 768px) {
+        #modal {
+                width:100%;
+                top: 5% !important;
+                margin:0px;
+                left:0px;
+        }
+        .modal-content {
+                left:0;
+        }
+
+
+}
+
+</style>
+
+<script type='text/javascript'>
+	/*
+        jQuery(document).ready(function(){
+		jQuery("#modal").addClass("visible");
+
+                jQuery(".overlay").click(function(){
+                        jQuery("#modal").removeClass("visible");
+			jQuery(".copy iframe").attr('src', jQuery(".copy iframe").attr('src'));
+			var vid = document.getElementById("myVideo");
+			vid.pause();
+			vid.onpause = function() {
+			};
+                });
+
+                jQuery(".modal-close").click(function(){
+                        jQuery("#modal").removeClass("visible");
+			jQuery(".copy iframe").attr('src', jQuery(".copy iframe").attr('src'));
+			var vid = document.getElementById("myVideo");
+			vid.pause();
+			vid.onpause = function() {
+			};
+                });
+	});
+	*/
+</script>
+
+
+
+
+
+    
+        
+    
+    <!-- ## main -->
+    <main id="main" class="main">
+                    <!-- ## First Info -->
+            <div class="entry-info">
+                <div class="container">
+                    <div class="top">
+                        <div class="text">
+                            <span class="title">Koç Üniversitesi’ne Hoş Geldiniz</span>
+                            <p class="description"> Bizi tanıyın, hakkımızda daha fazla bilgi edinin.</p>
+                        </div>
+                        <div class="action-button inline">
+                            <button class="style open-explorer"><span data-close="Kapat"
+                                                                      data-open="Keşfet"><em>Keşfet</em> <i
+                                            class="icon icon-down-arrow"></i></span></button>
+                            <span class="mobile-dropdown open-explorer"><i class="icon icon-down-arrow"></i></span>
+                        </div>
+                    </div>
+                    <div class="info-area">
+                        <div class="row">
+                            <div class="col-md-3">
+                                <div class="count-list">
+                                                                            <div class="list">
+                                            <span class="number">6.216</span>
+                                            <span class="name">Öğrenci</span>
+                                        </div>
+                                                                                <div class="list">
+                                            <span class="number">15.536</span>
+                                            <span class="name">Mezun</span>
+                                        </div>
+                                                                                <div class="list">
+                                            <span class="number">22</span>
+                                            <span class="name">Lisans Programı</span>
+                                        </div>
+                                                                                <div class="list">
+                                            <span class="number">32</span>
+                                            <span class="name">Yüksek Lisans Programı</span>
+                                        </div>
+                                                                                <div class="list">
+                                            <span class="number">29</span>
+                                            <span class="name">Doktora Programı</span>
+                                        </div>
+                                        
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="info-link-list">
+                                    <span class="title">Keşfet</span>
+                                    <nav class="link-list">
+                                        <a href="/kesfet/hakkimizda/" title="">Hakkımızda</a><a href="https://president.ku.edu.tr/" title="">Rektör</a><a href="/kesfet/hakkimizda/kurulus-oykusu-ve-felsefesi/tarihce/" title="">Tarihçe</a><a href="https://25.ku.edu.tr/kilometre-taslari/" title="">Kilometre Taşları</a>                                    </nav>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-6 col-xs-6">
+                                <a href="https://kurious.ku.edu.tr/" target="_blank">
+                                    <figure class="explorer-image"
+                                            style="background-image:url('//www.ku.edu.tr/wp-content/uploads/2019/05/kuriousKesfet.jpg')">
+                                        <figcaption>KURIOUS</figcaption>
+                                    </figure>
+                                </a>
+                            </div>
+                            <div class="col-md-3 col-sm-6 col-xs-6">
+                                <a href="https://pr.ku.edu.tr/wp-content/uploads/2019/07/bilimin_yolu_25_04.pdf" target="_blank">
+                                    <figure class="explorer-image"
+                                            style="background-image:url('//www.ku.edu.tr/wp-content/uploads/2019/05/bilimeovgu.jpg')">
+                                        <figcaption>Bilimin Yolu</figcaption>
+                                    </figure>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+
+        
+                        <section id="mainShowCase" class="section main-show-case">
+                <div class="container">
+                    <div class="top-navigation">
+                        <span class="name">Koç Üniversitesi’nde</span>
+                        <div class="navigation-list">
+                            <span class="list active bugun" data-class="bugun">Güncel</span>
+                            <span class="list arastirma " data-class="arastirma">Araştırma</span>
+                            <span class="list egitim " data-class="egitim">Eğitim</span>
+                            <span class="list kultur " data-class="kultur">Kültür & Yaşam</span>
+                        </div>
+                    </div>
+                    <div class="showcase-content">
+                        <div class="showcase-arrow prev kultur">
+                            <i class="icon icon-left-arrow"></i>
+                            <div class="text">
+                                <span class="company-name">KU'da</span>
+                                <span class="section-name">Kültür & Yaşam</span>
+                            </div>
+                        </div>
+                        <div class="showcase-arrow next arastirma">
+                            <div class="text">
+                                <span class="company-name">KU'da</span>
+                                <span class="section-name">Araştırma</span>
+                            </div>
+                            <i class="icon icon-right-arrow"></i>
+                        </div>
+
+                        <div class="showcase-wrapper">
+                            <div class="in">
+                                <!-- ## list -->
+                                <div class="content-list bugun open">
+                                    <span class="showcase-mobile-dropdown open-trigger open">Koç Üniversitesi’nde                                        <em>Güncel</em> <i class="icon icon-down-arrow"></i>
+                                    </span>
+                                    <div class="content-list-in row-col">
+                                        <div class="content-col-7 sm right-seperator">
+                                            <a href="https://www.youtube.com/watch?v=VBDCnfx8cs8"
+                                               target="_blank"
+                                               title="" class="banner full">
+                                                <figure class="banner-image"
+                                                        style="background-image:url('//www.ku.edu.tr/wp-content/uploads/2019/07/ku-tanitim-2019_website-01.png')"></figure>
+                                                <div class="banner-content">
+                                                                                                                                                                <span class="title">2019 Tanıtım Filmi</span>
+                                                                                                    </div>
+                                            </a>
+
+                                            <div class="row-col top-seperator">
+                                                                                                <div class="content-col-5 right-seperator">
+                                                    <a href="https://adaylar.ku.edu.tr/aday-ogrencilerimiz/tanitim-gunleri/"
+                                                       target="_blank"
+                                                       title="" class="banner">
+                                                        <figure class="banner-image"
+                                                                style="background-image:url('//www.ku.edu.tr/wp-content/uploads/2019/07/ku-tanitim-2019_website-02.png')"></figure>
+                                                        <div class="banner-content">
+                                                                                                                                                                                        <span class="title">Tanıtım Günleri Programı</span>
+                                                                                                                    </div>
+                                                    </a>
+                                                </div>
+                                                                                                <div class="content-col-5">
+                                                    <a href="https://adaylar.ku.edu.tr/aday-ogrencilerimiz/tanitim-gunleri/"
+                                                       target="_blank"
+                                                       title="" class="banner">
+                                                        <figure class="banner-image"
+                                                                style="background-image:url('//www.ku.edu.tr/wp-content/uploads/2019/07/ku-tanitim-2019_website-03.png')"></figure>
+                                                        <div class="banner-content">
+                                                                                                                                                                                        <span class="title">Kampüse Ulaşım</span>
+                                                                                                                    </div>
+                                                    </a>
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+                                                                                    <div class="content-col-3 sm">
+                                                <!-- ## announcement -->
+                                                <div class="showcase-announcement">
+                                                    <a href="https://events.ku.edu.tr/" target="_blank" title="" class="more-link">Tüm Etkinlikler</a>
+                                                    <!-- ## List -->
+                                                    <div class="announcement-list-area">
+                                                                                                                                <!-- ## List -->
+                                                                        <div class="announcement-list">
+                                                                                                                                                            <div class="date">
+                                                                                    <span class="count">30</span>
+                                                                                    <div class="other">
+                                                                                        <span class="mount">July</span>
+                                                                                        <span class="years">2019                                                                                            , Tuesday</span>
+                                                                                    </div>
+                                                                                </div>
+                                                                                                                                                        <a class="announcement-title"
+                                                                               style="color: inherit"
+                                                                               href="https://events.ku.edu.tr/u/3b47d907-aea3-11e9-a7c5-00505681277d"
+                                                                               target="_blank">PHYSICS SEMINAR by Saeed Abedinpour</a>
+                                                                            <div class="other-info">
+                                                                                                                                                                <span>Saat                                                                                    : <b>10:00</b></span>
+                                                                                <span>Konum                                                                                    : <b>SCI 103</b></span>
+                                                                            </div>
+                                                                        </div>
+                                                        
+                                                                                                                                            <!-- ## List -->
+                                                                        <div class="announcement-list">
+                                                                                                                                                        <a class="announcement-title"
+                                                                               style="color: inherit"
+                                                                               href="https://events.ku.edu.tr/u/7d673831-ad20-11e9-a7c5-00505681277d"
+                                                                               target="_blank">Seminar In Medicine, 30.07.2019, Dr. Duygu Sezen</a>
+                                                                            <div class="other-info">
+                                                                                                                                                                    <span>Tarih: <b>30.07.2019</b></span>                                                                                 <span>Saat                                                                                    : <b>14:00</b></span>
+                                                                                <span>Konum                                                                                    : <b>MED 176</b></span>
+                                                                            </div>
+                                                                        </div>
+                                                        
+                                                                                                                        </div>
+			
+						    <!-- json:: Array
+(
+    [0] => stdClass Object
+        (
+            [createdAt] => 2019-07-29T08:19:11.606Z
+            [from] => Koç University
+            [subject] => Click here to see
+            [id] => 0
+            [url] => https://events.ku.edu.tr
+            [date] => 2019-07-29T08:19:11.606Z
+        )
+
+)
+-->                                                    <div class="announcement-box empty">
+                                                        <div class="announcement-empty">
+                                                            <span><a href='https://events.ku.edu.tr' style="color:white;" target="_blank">Görüntülemek için tıklayın</a></span>
+                                                        </div>
+                                                        <a href="https://events.ku.edu.tr/" target="_blank" title=""
+                                                           class="more-link">Önceki Duyurular</a>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                                                            </div>
+
+                                </div>
+
+
+                                <!-- ## list -->
+                                <div class="content-list arastirma">
+                                    <span class="showcase-mobile-dropdown open-trigger">Koç Üniversitesi’nde                                        <em>Araştırma</em> <i
+                                                class="icon icon-down-arrow"></i></span>
+
+                                    <div class="content-list-in row-col">
+                                        <div class="content-col-5 sm right-seperator">
+
+                                            <div class="row-col">
+                                                <div class="content-col-10">
+                                                    <a href="https://akmed.ku.edu.tr/kaleici-muzesi/sergiler/"
+                                                       target="_blank"
+                                                       title="" class="banner">
+                                                        <figure class="banner-image"
+                                                                style="background-image:url('//www.ku.edu.tr/wp-content/uploads/2019/07/AKMED-–-Yeni-Sergi.jpg')"></figure>
+                                                        <div class="banner-content">
+                                                                                                                            <span class="badge duyuru" style="background-color: #a20a7e ">Duyuru</span>
+                                                                                                                                                                                        <span class="title">AKMED – Yeni Sergi</span>
+                                                                                                                    </div>
+                                                    </a>
+                                                </div>
+                                                <div class="content-col-10 sm top-seperator">
+                                                    <a href="https://kudar.ku.edu.tr/"
+                                                       target="_blank"
+                                                       title="" class="banner">
+                                                        <figure class="banner-image"
+                                                                style="background-image:url('//www.ku.edu.tr/wp-content/uploads/2019/07/kudar.jpg')"></figure>
+                                                        <div class="banner-content">
+                                                                                                                            <span class="badge haber" style="background-color: #e10b2a ">Haber</span>
+                                                                                                                                                                                        <span class="title">Mustafa V. Koç Deniz Arkeolojisi Araştırma Merkezi</span>
+                                                                                                                    </div>
+                                                    </a>
+                                                </div>
+
+                                            </div>
+
+
+                                        </div>
+                                        <div class="content-col-5 sm">
+                                            <a href="https://kockam.ku.edu.tr/uluslararasi-yaz-akademisi/"
+                                               target="_blank"
+                                               title="" class="banner big">
+                                                <figure class="banner-image"
+                                                        style="background-image:url('//www.ku.edu.tr/wp-content/uploads/2019/07/summer.jpg')"></figure>
+                                                <div class="banner-content">
+                                                                                                            <span class="badge duyuru" style="background-color: #a20a7e ">Duyuru</span>
+                                                                                                                                                                <span class="title">Uluslararası Yaz Akademisi</span>
+                                                                                                    </div>
+                                            </a>
+                                        </div>
+                                    </div>
+
+
+                                </div>
+
+                                <!-- ## list -->
+                                <div class="content-list egitim">
+                                    <span class="showcase-mobile-dropdown open-trigger">Koç Üniversitesi’nde                                        <em>Eğitim</em> <i
+                                                class="icon icon-down-arrow"></i></span>
+                                    <div class="content-list-in row-col">
+                                        <div class="content-col-10 sm">
+                                            <a href="https://core.ku.edu.tr/"
+                                               target="_blank"
+                                               title="" class="full banner">
+                                                <figure class="banner-image"
+                                                        style="background-image:url('//www.ku.edu.tr/wp-content/uploads/2019/07/Core.jpg')"></figure>
+                                                <div class="banner-content">
+                                                                                                            <span class="badge haber" style="background-color: #e10b2a ">Haber</span>
+                                                                                                                                                                <span class="title">Çekirdek Program</span>
+                                                                                                    </div>
+                                            </a>
+                                        </div>
+
+                                        <div class="row-col top-seperator">
+                                            <div class="content-col-3-5 sm">
+                                                <a href="https://www.youtube.com/watch?v=rp_ftnJLxWE"
+                                                   target="_blank"
+                                                   title="" class="banner">
+                                                    <figure class="banner-image"
+                                                            style="background-image:url('//www.ku.edu.tr/wp-content/uploads/2019/07/470x246_main.jpg')"></figure>
+                                                    <div class="banner-content">
+                                                                                                                    <span class="badge duyuru" style="background-color: #a20a7e ">Duyuru</span>
+                                                                                                                                                                            <span class="title">Anadolu Bursiyerlerimiz ile Tanışın!</span>
+                                                                                                            </div>
+                                                </a>
+                                            </div>
+                                            <div class="content-col-3-5 sm" style="padding: 0 2px">
+                                                <a href="https://adaylar.ku.edu.tr/ "
+                                                   target="_blank"
+                                                   title="" class="banner">
+                                                    <figure class="banner-image"
+                                                            style="background-image:url('//www.ku.edu.tr/wp-content/uploads/2019/07/Aday_Ogrencilerimiz.jpg')"></figure>
+                                                    <div class="banner-content">
+                                                                                                                                                                            <span class="title">Aday Öğrencilerimiz </span>
+                                                                                                            </div>
+                                                </a>
+                                            </div>
+                                            <div class="content-col-3-5 sm">
+                                                <a href="https://kolt.ku.edu.tr/?lang=tr"
+                                                   target="_blank"
+                                                   title="" class="banner">
+                                                    <figure class="banner-image"
+                                                            style="background-image:url('//www.ku.edu.tr/wp-content/uploads/2019/07/Koç-Üniversitesi-Öğrenme-ve-Öğretme-Ofisi-KOLT.png')"></figure>
+                                                    <div class="banner-content">
+                                                                                                                                                                            <span class="title">Koç Üniversitesi Öğrenme ve Öğretme Ofisi (KOLT)</span>
+                                                                                                            </div>
+                                                </a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                                <!-- ## list -->
+                                <div class="content-list kultur">
+                                    <span class="showcase-mobile-dropdown open-trigger">Koç Üniversitesi’nde                                        <em>Kültür & Yaşam</em> <i
+                                                class="icon icon-down-arrow"></i></span>
+                                    <div class="content-list-in row-col">
+                                        <div class="content-col-10 sm">
+                                            <a href="https://www.youtube.com/watch?v=JPWvMHmkhcU"
+                                               target="_blank"
+                                               title="" class="banner">
+                                                <figure class="banner-image"
+                                                        style="background-image:url('//www.ku.edu.tr/wp-content/uploads/2019/07/kuc-uni.png')"></figure>
+                                                <div class="banner-content">
+                                                                                                                                                                <span class="title">Koç Üniversitesi’ni Havadan Keşfedin</span>
+                                                                                                    </div>
+                                            </a>
+                                        </div>
+
+                                        <div class="row-col top-seperator">
+                                            <div class="content-col-5 sm">
+                                                <a href="https://sgkm.ku.edu.tr/"
+                                                   target="_blank"
+                                                   title="" class="banner">
+                                                    <figure class="banner-image"
+                                                            style="background-image:url('//www.ku.edu.tr/wp-content/uploads/2019/07/Sevgi_Gonul_Kultur_Merkezi.jpg')"></figure>
+
+                                                    <div class="banner-content">
+                                                                                                                    <span class="badge duyuru" style="background-color: #307de2 ">Etkinlik</span>
+                                                                                                                                                                            <span class="title">Sevgi Gönül Kültür Merkezi</span>
+                                                                                                            </div>
+                                                </a>
+                                            </div>
+                                            <div class="content-col-5 sm" style="padding-left: 2px">
+                                                <a href="https://press.ku.edu.tr/ "
+                                                   target="_blank"
+                                                   title="" class="banner">
+                                                    <figure class="banner-image"
+                                                            style="background-image:url('//www.ku.edu.tr/wp-content/uploads/2019/07/Koc_Universitesi_Yayinlari.jpg')"></figure>
+
+                                                    <div class="banner-content">
+                                                                                                                                                                            <span class="title">Koç Üniversitesi Yayınları</span>
+                                                                                                            </div>
+                                                </a>
+                                            </div>
+                                            <!--<div class="content-col-3 sm" style="padding-left: 2px">
+                                            <div href="#" title="" class="banner other list">
+                                                <span class="list-title"></span>
+                                                <nav>
+                                                                                                    </nav>
+
+                                            </div>
+                                        </div>-->
+
+                                        </div>
+                                    </div>
+
+
+                                </div>
+                            </div>
+                        </div>
+                        <!-- ## active -->
+                        <div class="pagination-bullet">
+                            <span class="bullet active"></span>
+                            <span class="bullet"></span>
+                            <span class="bullet"></span>
+                            <span class="bullet"></span>
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+
+
+        
+
+        <div class="under-page">
+            <div class="under-page-in">
+                <div class="container">
+                    <div class="rowa">
+                                            </div>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+<footer id="mainFooter" class="main-footer">
+		<div class="footer-top">
+		<div class="container">
+			<span class="title">Sosyal Medyada Koç Üniversitesi</span>
+			<nav class="footer-social-media">
+					<a class="facebook" href="https://www.facebook.com/kocuniversity/" target="_blank"><em><i class="icon icon-facebook-icon"></i></em></a><a class="instagram" href="https://www.instagram.com/kocuniversity/" target="_blank"><em><i class="icon icon-instagram-icon"></i></em></a><a class="twitter" href="https://twitter.com/kocuniversity" target="_blank"><em><i class="icon icon-twitter-icon"></i></em></a><a class="youtube" href="http://www.youtube.com/KUKocUniversity" target="_blank"><em><i class="icon icon-youtube-icon"></i></em></a><a class="linkedin" href="https://www.linkedin.com/edu/school?id=17378" target="_blank"><em><i class="icon icon-linkedin-icon"></i></em></a>			</nav>
+		</div>
+		
+	</div>
+		<div class="footer-center">
+		<div class="container">
+			<div class="col-list ">
+								
+				
+				
+				
+			</div>
+
+			<div class="row">
+				<div class="col-md-4">
+					<div class="app-list">
+						<span class="title">Mobil Uygulamamızı İndirin</span>
+						<a href="https://play.google.com/store/apps/details?id=com.ombiel.campusm.ku" target="_blank"><img src="https://www.ku.edu.tr/wp-content/themes/kuwp/assets/img/theme/google-play.svg" alt=""></a>
+						<a href="https://itunes.apple.com/app/id1144038972" target="_blank"><img src="https://www.ku.edu.tr/wp-content/themes/kuwp/assets/img/theme/app-store.svg" alt=""></a>
+					</div>
+				</div>
+				<div class="col-md-8">
+					<div class="footer-contact-info">
+						<div class="in">
+							<div class="row">
+								<div class="col-lg-11 col-md-12">
+									<div class="row">
+										<div class="col-lg-4 col-md-4">
+											<div class="col">
+												<span class="title">İletişim</span>
+												<p class="address">Rumelifeneri Yolu 34450<br />
+Sarıyer, İstanbul / Türkiye</p>
+											</div>
+										</div>
+										<div class="col-lg-4 col-md-4">
+											<div class="col">
+												<a href="mailto:information@ku.edu.tr" class="email">information@ku.edu.tr</a>
+												<div class="phone-list">
+													<a href="tel:02123381000">Tel (santral): 0212 338 1000</a><a href="tel:+902123381205">Faks: +90 212 338 1205</a>												</div>
+											</div>
+										</div>
+										<div class="col-lg-4 col-md-4">
+											<div class="col">
+												<a class="info-text" href="/iletisim/kampuslerimiz/" target="">Kampüslere Erişim ve<br />
+Ulaşım Hizmetleri</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+		
+	</div>
+	<div class="footer-bottom">
+		<span class="copyright-text">© 2019 Koç University</span>
+	</div>
+
+</footer>
+	<!-- Google Tag Manager -->
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WW58N2');
+</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82390347-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82390347-1');
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.ku.edu.tr\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ku.edu.tr/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.3'></script>
+<script type='text/javascript' src='https://www.ku.edu.tr/wp-includes/js/wp-embed.min.js?ver=5.2.1'></script>
+
+  </body>
+
+</html><script src='https://www.ku.edu.tr/wp-content/themes/kuwp/assets/js/libs/fullcalendar/moment.min.js'></script>
+
+
+<!-- ## JAVASCRIPT -->
+<!-- ## jquery -->
+<script type="text/javascript" src="https://www.ku.edu.tr/wp-content/themes/kuwp/assets/js/libs/jquery.min.js"></script>
+<!-- ## jquery UI -->
+<script type="text/javascript" src="https://www.ku.edu.tr/wp-content/themes/kuwp/assets/js/libs/jquery-ui.min.js"></script>
+<!-- ## bootstrap -->
+<script type="text/javascript" src="https://www.ku.edu.tr/wp-content/themes/kuwp/assets/js/libs/bootstrap.js"></script>
+<!-- ## selectBoxIt -->
+<script type="text/javascript" src="https://www.ku.edu.tr/wp-content/themes/kuwp/assets/js/libs/jquery.selectBoxIt.min.js"></script>
+<!-- ## iCheck -->
+<script type="text/javascript" src="https://www.ku.edu.tr/wp-content/themes/kuwp/assets/js/libs/icheck.min.js"></script>
+<!-- ## Swiper -->
+<script type="text/javascript" src="https://www.ku.edu.tr/wp-content/themes/kuwp/assets/js/libs/swiper.min.js"></script>
+<!-- ## Masonry -->
+<script type="text/javascript" src="https://www.ku.edu.tr/wp-content/themes/kuwp/assets/js/libs/masonry.pkgd.min.js"></script>
+<!-- ## Isotope -->
+<script type="text/javascript" src="https://www.ku.edu.tr/wp-content/themes/kuwp/assets/js/libs/isotope.pkgd.min.js"></script>
+<!-- ## Light Gallery -->
+<script type="text/javascript" src="https://www.ku.edu.tr/wp-content/themes/kuwp/assets/js/libs/lightgallery.min.js"></script>
+<!-- ## Light Gallery Thumbnail -->
+<script type="text/javascript" src="https://www.ku.edu.tr/wp-content/themes/kuwp/assets/js/libs/lg-thumbnail.min.js"></script>
+<!-- ## Lity -->
+<script type="text/javascript" src="https://www.ku.edu.tr/wp-content/themes/kuwp/assets/js/libs/lity.min.js"></script>
+
+<!-- ## Light Gallery Thumbnail -->
+<script type="text/javascript" src="https://www.ku.edu.tr/wp-content/themes/kuwp/assets/js/libs/circle-progress.min.js"></script>
+<!-- ## Jquery Typeahead -->
+<script type="text/javascript" src="https://www.ku.edu.tr/wp-content/themes/kuwp/assets/js/libs/jquery.typeahead.min.js"></script>
+
+<!-- <script src='https://fullcalendar.io/js/fullcalendar-3.6.1/lib/moment.min.js'></script> -->
+<script src='https://www.ku.edu.tr/wp-content/themes/kuwp/assets/js/libs/fullcalendar/fullcalendar.min.js?v=21512'></script>
+<script src='https://www.ku.edu.tr/wp-content/themes/kuwp/assets/js/libs/fullcalendar/gcal.min.js'></script>
+<script src='https://www.ku.edu.tr/wp-content/themes/kuwp/assets/js/libs/fullcalendar/locale-all.js?v=215'></script>
+<!-- <script src='https://fullcalendar.io/js/fullcalendar-3.6.1/locale-all.js'></script> -->
+<!-- <script src='https://fullcalendar.io/js/fullcalendar-3.6.1/fullcalendar.min.js'></script> -->
+<!-- <script src='https://fullcalendar.io/js/fullcalendar-3.6.1/gcal.min.js'></script> -->
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDm2LCLse9E7-3T5NI2uoNYW-H5_IedEIg"></script>
+
+
+
+<!-- ## Custom Script -->
+<script type="text/javascript" src="https://www.ku.edu.tr/wp-content/themes/kuwp/assets/js/script.js?v=1564397501"></script>
+<script type="text/javascript" src="https://www.ku.edu.tr/wp-content/themes/kuwp/app.js?v=1564397501"></script>
+
+<input type="hidden" id="ajax-search" value="idle">
+
+<script>
+	jQuery(document).ready(function($){
+		
+		function debounce(fn, delay) {
+		  var timer = null;
+		  return function () {
+			var context = this, args = arguments;
+			clearTimeout(timer);
+			timer = setTimeout(function () {
+			  fn.apply(context, args);
+			}, delay);
+		  };
+		}
+
+		var aurl = 'https://www.ku.edu.tr/wp-admin/admin-ajax.php';
+
+		// ajax search
+		$('.main-search-input').on('keydown keyup', debounce(function(e) {
+			var keywords = $('.main-search-input').val();
+
+			if (e.altKey || e.ctrlKey || e.shiftKey || e.which == 13) { } else {
+
+				var aj = $('#ajax-search').val();
+
+				if (keywords.length > 2 && aj == "idle") {
+					$(".result-info").html('Sonuçlar aranıyor...');
+					// $('#ajax-search').val('working');
+					$.ajax({
+						type: 'post',
+						url: aurl,
+						data: '_post=search&keywords='+keywords,
+						success: function (r) {
+							$('body').append(r);
+							$('#ajax-search').val('a');
+
+							setTimeout(function() {
+								$('#ajax-search').val('idle');
+							}, 500);
+						}
+					});
+				}
+				else {
+					$(".result-info").html('En az 3 karakter veya daha fazla girin.');
+					$(".search-found").html(""); 
+				}
+				
+			}
+
+
+		}, 450));
+
+
+		$('body').on('change', 'select[name=select_milestone-year]', function () {
+				var year = $(this).val();
+				console.log(year);
+				if (year == "all") {
+					$('.vertical-timeline').show();
+				}
+				else {
+					$('.vertical-timeline').hide();
+					$('.__milestone-year-'+year).show();
+				}
+		});
+
+		(function($) {
+			$.fn.changeElementType = function(newType) {
+				var attrs = {};
+
+				$.each(this[0].attributes, function(idx, attr) {
+					attrs[attr.nodeName] = attr.nodeValue;
+				});
+
+				this.replaceWith(function() {
+					return $("<" + newType + "/>", attrs).append($(this).contents());
+				});
+			}
+		})(jQuery);
+	
+		
+		$("form.under-contact-form input, form.under-contact-form textarea").on('keyup keydown', function () {
+				var val = $(this).val();
+				
+				if (val) $(this).addClass('has_val');
+				else $(this).removeClass('has_val');
+		});
+
+
+		$("form.under-contact-form").each(function () {
+
+			$(this).find('select').each(function() {
+				$(this).addClass('special-select change-tab');
+				$(this).parent().addClass('primary-select-area');
+				$(this).parent().changeElementType('div');
+				$(this).parent().parent().addClass('col-md-8');
+				$(this).parent().parent().changeElementType('div');
+			});
+
+			$(this).find('input[type=text]').each(function () {
+				$(this).addClass('line-primary-input');
+				var placeholder = '';
+				if ($(this).attr('placeholder')) placeholder = $(this).attr('placeholder');
+				$(this).parent().append('<div style="display: inline-block;" class="line-title">'+placeholder+'</div>');
+				$(this).attr('placeholder', '');
+				$(this).parent().changeElementType("label");
+				$(this).parent().addClass('line-input');
+				$(this).parent().parent().changeElementType('div');
+				$(this).parent().parent().addClass('col-md-6');
+
+			});
+
+			$(this).find('input[type=email]').each(function () {
+				$(this).addClass('line-primary-input');
+				var placeholder = '';
+				if ($(this).attr('placeholder')) placeholder = $(this).attr('placeholder');
+				$(this).parent().append('<div style="display: inline-block;" class="line-title">'+placeholder+'</div>');
+				$(this).attr('placeholder', '');
+				$(this).parent().changeElementType("label");
+				$(this).parent().addClass('line-input');
+				$(this).parent().parent().changeElementType('div');
+				$(this).parent().parent().addClass('col-md-6');
+
+			});
+
+
+			$(this).find('textarea').each(function () {
+				$(this).addClass('line-primary-input');
+				var placeholder = '';
+				if ($(this).attr('placeholder')) placeholder = $(this).attr('placeholder');
+				$(this).parent().append('<div style="display: inline-block;" class="line-title">'+placeholder+'</div>');
+				$(this).attr('placeholder', '');
+				$(this).parent().changeElementType("label");
+				$(this).parent().addClass('line-input');
+				$(this).parent().parent().changeElementType('div');
+				$(this).parent().parent().addClass('col-md-12');
+			});
+
+			$(this).find('input[type=submit]').each(function() {
+
+				$(this).addClass('button-style black small inline');
+				var val = $(this).val();
+				$(this).parent().changeElementType('div');
+				$(this).changeElementType('button');
+			});
+
+			$(this).find('button[value]').each(function() {
+				$(this).parent().addClass('line-input');
+				$(this).html('<span><em>'+$(this).attr('value')+"</em></span>");
+			});
+
+
+			$(".special-select").selectBoxIt();
+
+
+		});
+		
+		
+
+			});
+</script>
+
+
+<!-- WP Fastest Cache file was created in 0.75305795669556 seconds, on 29-07-19 16:51:41 --><!-- via php -->

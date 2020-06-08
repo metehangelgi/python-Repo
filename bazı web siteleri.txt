@@ -1,0 +1,12 @@
+https://medium.com/@aerinykim/numpy-sum-axis-intuition-6eb94926a5d1
+
+
+
+https://scikit-learn.org/stable/auto_examples/neighbors/plot_classification.html#sphx-glr-auto-examples-neighbors-plot-classification-py
+
+
+
+https://www.w3schools.com/python/exercise.asp?filename=exercise_syntax1
+
+
+https://www.w3resource.com/python-exercises/numpy/index.php

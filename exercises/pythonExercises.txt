@@ -1,0 +1,4 @@
+https://www.w3schools.com/python/exercise.asp?filename=exercise_syntax1
+
+
+https://medium.com/@aerinykim/numpy-sum-axis-intuition-6eb94926a5d1
